@@ -1,12 +1,12 @@
 ---
 # Common-Defined params
 title: "Webpack核心概念讲解"
-date: "2019-12-03"
-description: "在现在，做前端不用webpack好像被时代抛弃了一样，每天开发的时候npm run dev,上线的时候npm run build,总之执行一个命令静静的等着打包就好了，甚至根本不需要知道执行命令后整个过程究竟干了什么。webapck就像一个黑盒，需要小心翼翼遵循它的配置，配好了就是万幸。可能对于刚学webapck来学，在配置中有可能会配到怀疑人生，会有各种报红，或者会遇到一些依赖的坑等。"
+date: "2019-12-05"
+description: "webpack入门"
 categories:
-  - "Category 1"
+  - "webpack"
 tags:
-  - "Test"
+  - "webpack"
 menu: side # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params
@@ -15,9 +15,6 @@ authorbox: false # Enable authorbox for specific page
 toc: false # Enable Table of Contents for specific page
 mathjax: true # Enable MathJax for specific page
 ---
-
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
-
 # Webpack核心概念讲解
 
 ## webpack是什么
@@ -1905,5 +1902,9 @@ const mode = argv.env;
 ```
 
 
+# 下面夹杂一些私货：也许你和高薪之间只差这一张图
 
+**2019年京程一灯课程体系上新，这是我们第一次将全部课程列表对外开放。**
+
+**愿你有个好前程，愿你月薪30K。我们是认真的 ！**
 
